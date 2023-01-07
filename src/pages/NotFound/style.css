@@ -1,0 +1,15 @@
+.not-found {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.content {
+    padding: 30px;
+}
+
+.text-center {
+    text-align: center;
+    font-size: 50px;
+}
