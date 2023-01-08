@@ -1,4 +1,3 @@
-import "./index.css";
 import Home from './pages/home';
 import { ThemeProvider } from "@mui/styles";
 import theme from "./theme";
@@ -6,6 +5,7 @@ import SignIn from "./pages/signIn"
 import { Routes, Route } from "react-router";
 import { BrowserRouter } from "react-router-dom";
 import NotFound from "./pages/NotFound";
+import "./mock"
 
 function App() {
   return (
